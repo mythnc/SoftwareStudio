@@ -1,0 +1,35 @@
+*.class
+*.mov
+mat/
+fontlist
+Project/
+tags
+test/
+
+.*
+!.gitignore
+
+# Labs
+Lab[1-9]/Lab[1-9]_code/
+Lab[1-9]/Lab[1-9]_grading_criterion.pdf
+Lab[1-9]/Lab[1-9].pdf
+Lab[1-9]/Lab[1-9]-[1-2].pdf
+
+# Lab4
+Lab4/Lab4_JPanel_Graphic-1/
+
+# Lab6
+Lab6/Treeviz/
+Lab6/process_college/
+Lab6/*.txt
+
+# Lab7
+Lab7/cue.language-master/
+Lab7/screenshot.png
+
+# Lab8
+Lab8/src/.gitbk/
+
+# Lab9
+Lab9/Lab9-1/src/.gitbk/
+Lab9/Lab9-2/src/.gitbk/
